@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100hv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.page1-headline{
+    width: 546px;
+    overflow: hidden;
+}
+.page1-headline .text{
+    position: relative;
+    font-size: 48px;
+    font-family: 'Abril';
+    font-weight: 100;
+}
