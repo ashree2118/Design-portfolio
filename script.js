@@ -14,3 +14,9 @@ const textLoad = () => {
 
 textLoad();
 setInterval(textLoad, 12000);
+
+var typed = new Typed('#element', {
+    strings: ['Frontend Developer', 'Graphic Designer', 'Calligrapher'],
+    typeSpeed: 90,
+});
+   
