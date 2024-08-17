@@ -10,14 +10,23 @@ body{
     overflow: hidden;
 }
 .page1-headline{
-    width: 546px;
-    overflow: hidden;
+    
+    overflow: hidden; 
+    height: 735px;  
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: table;
+    table-layout: fixed;
+    width: 100%;
 }
 .page1-headline .text{
     position: relative;
-    font-size: 48px;
+    font-size: 42px;
     font-family: 'Abril';
     font-weight: 100;
+    margin: ;
 }
 .page1-headline .text.first-text{
     
