@@ -11,6 +11,11 @@ body{
 }
 .main-page1{
     margin-left: 210px;
+    
+}
+.page1{
+    height: 735.2px;
+    width: 1285.6px;
 }
 .page1-headline{
     
@@ -53,5 +58,6 @@ body{
     }
 }
 .page2{
-    height: 735.2px;
+    
+    
 }
