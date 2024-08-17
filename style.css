@@ -9,6 +9,9 @@ body{
     justify-content: center;
     overflow: hidden;
 }
+.main-page1{
+    margin-left: 84px;
+}
 .page1-headline{
     
     overflow: hidden; 
@@ -16,17 +19,21 @@ body{
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    margin-left: auto;
+    line-height: 1.42857143;
     display: table;
     table-layout: fixed;
     width: 100%;
+    margin-top: 27%;
+    font-size: 48px;
+    font-family: 'Abril';
+    font-weight: 100;
 }
 .page1-headline .text{
     position: relative;
     font-size: 42px;
     font-family: 'Abril';
     font-weight: 100;
-    margin: ;
+    
 }
 .page1-headline .text.first-text{
     
