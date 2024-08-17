@@ -6,14 +6,14 @@ const textLoad = () => {
     }, 0);
     setTimeout(() => {
         text.textContent = "Graphic Designer";
-    }, 4000);
+    }, 3500);
     setTimeout(() => {
         text.textContent = "Calligrapher";
-    }, 8000);
+    }, 7000);
 }
 
 textLoad();
-setInterval(textLoad, 12000);
+setInterval(textLoad, 9500);
 
 var typed = new Typed('#element', {
     strings: ['Frontend Developer', 'Graphic Designer', 'Calligrapher'],

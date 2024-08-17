@@ -35,9 +35,6 @@ body{
     font-weight: 100;
     
 }
-.page1-headline .text.first-text{
-    
-}
 .page1-headline .sec-text:before{
     content: "";
     position: absolute;
@@ -54,4 +51,7 @@ body{
     100%{
         left: 0%;
     }
+}
+.page2{
+    height: 735.2px;
 }
