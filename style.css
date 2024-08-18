@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: #333;;
+    background-color: #191919;;
 }
 
 body{
@@ -60,7 +60,6 @@ body{
         left: 0%;
     }
 }
-.page2{
-    
-    
+.first-text , .line1{
+    color: white;
 }
