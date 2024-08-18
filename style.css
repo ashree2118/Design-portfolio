@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: #191919;;
+    background-color: #191919;
 }
 
 body{
@@ -10,15 +10,17 @@ body{
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    
+    background-color: #191919;
 }
 .main-page1{
     margin-left: 210px;
+    
 }   
 .page1{
     height: 735.2px;
     width: 1285.6px;
     display: flex;
+    
 }
 .page1-headline{
     
