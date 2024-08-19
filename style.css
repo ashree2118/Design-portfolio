@@ -13,7 +13,7 @@ body{
     background-color: #191919;
 }
 .main-page1{
-    margin-left: 210px;
+    background-color: #191919;
     
 }   
 .page1{
@@ -37,6 +37,7 @@ body{
     font-size: 64px;
     font-family: 'Abril';
     font-weight: 400;
+    margin-left: 210px;
 }
 .page1-headline .text{
     position: relative;
