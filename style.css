@@ -1,10 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     background-color: #191919;
 }
 
-body{
+body {
     min-height: 100hv;
     display: flex;
     align-items: center;
@@ -12,40 +12,41 @@ body{
     overflow: hidden;
     background-color: #191919;
 }
-.main-page1{
+
+.main-page1 {
     background-color: #191919;
-    
-}   
-.page1{
-    height: 735.2px;
-    
-    display: flex;
-    
+
 }
-.page1-headline{
-    
-    overflow: hidden; 
-    height: 735px;  
-    
+
+.page1 {
+    height: 735.2px;
+    display: flex;
+
+}
+
+.page1-headline {
+
+    overflow: hidden;
+    height: 735px;
     margin-right: auto;
     color: rgb(207, 243, 77);
     display: table;
     table-layout: fixed;
     width: 100%;
     margin-top: 18%;
-    font-size: 64px;
-    font-family: 'Abril';
     font-weight: 600;
     margin-left: 240px;
 }
-.page1-headline .text{
+
+.page1-headline .text {
     position: relative;
     font-size: 42px;
     font-family: 'Abril';
     font-weight: 100;
-    
+
 }
-.page1-headline .sec-text:before{
+
+.page1-headline .sec-text:before {
     content: "";
     position: absolute;
     top: 0;
@@ -54,14 +55,20 @@ body{
     width: 100%;
     animation: animate 4s steps(12) infinite;
 }
-@keyframes animate{
-    40%, 60%{
+
+@keyframes animate {
+
+    40%,
+    60% {
         left: (100%);
     }
-    100%{
+
+    100% {
         left: 0%;
     }
 }
-.first-text , .line1{
+
+.first-text,
+.line1 {
     color: white;
 }
