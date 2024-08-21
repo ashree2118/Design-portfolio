@@ -74,4 +74,5 @@ body {
 }
 .nav{
     justify-content: center;
+    display: flex;
 }
