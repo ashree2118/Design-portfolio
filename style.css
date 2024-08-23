@@ -19,7 +19,7 @@ body {
 }
 
 .page1 {
-    height: 735.2px;
+    \
     display: flex;
 
 }
@@ -27,7 +27,7 @@ body {
 .page1-headline {
 
     overflow: hidden;
-    height: 735px;
+    
     margin-right: auto;
     color: rgb(207, 243, 77);
     display: table;
