@@ -76,14 +76,14 @@ body {
 
 
 nav{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    height: 80px;
+    
+    
+    
+    
     background-color: rgb(33, 33, 33);
 }
 nav ul{
-    display: flex;
+    
     justify-content: center;
 }
 nav ul li{
